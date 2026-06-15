@@ -5,3 +5,21 @@ dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+  - aiohttp
+  - cartopy
+  - cftime
+  - cmocean
+  - easygems
+  - healpy
+  - intake==0.7.0
+  - intake-esm
+  - intake-stac
+  - intake-xarray==0.7.0
+  - jupyter-book
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - requests
+  - sphinx-pythia-theme
+  - uxarray
