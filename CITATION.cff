@@ -2,6 +2,11 @@ cff-version: 1.2.0
 message: "If you use this cookbook, please cite it as below."
 authors:
   # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
+  - family-names:  Boyer
+    given-names:  Tiffany Suzanne
+    orcid:  https://orcid.org/0009-0006-4782-3065
+    website:  https://github.com/El0quence, https://www.linkedin.com/in/tiffanysboyer/
+    affiliation:  Rising Data Scientist, Howard University Center for Applied Data Science & Analytics (CADSA) / International Longshoremans Association Local # 1359-1860
   - family-names: Rose
     given-names: Brian E. J.
     orcid: https://orcid.org/0000-0002-9961-3821 # optional
