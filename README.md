@@ -1,4 +1,4 @@
-# (Replace_with_your_title) Cookbook
+# Aerosol Cloud Interaction Cookbook
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
@@ -12,7 +12,7 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+Aerosol-cloud interactions (ACIs) continue to introduce the greatest degree of uncertainty into the estimate of effective radiative forcing, which affects our ability to project temperature/precipitation evolution and assess societal risks. It is challenging to represent ACIs in models because they involve multiscale and nonlinear processes.  Comparing simulated ACIs from different models and evaluating model performance will help us understand processes and reduce projection uncertainty.
 
 ## Authors
 
